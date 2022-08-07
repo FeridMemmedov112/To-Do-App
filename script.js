@@ -16,7 +16,7 @@ function vezifeTamamlaSil(e){
         kliklenenElement.parentElement.classList.toggle('vezife-tamamlandi')
     }
     if(kliklenenElement.classList.contains('vezife-btn-sil')){
-        kliklenenElement.parentElement.classList.toggle('reddol')
+        kliklenenElement.parentElement.classList.toggle('sil')
     }
 
 }

@@ -11,7 +11,7 @@
 
 
 body {
-    background-image: linear-gradient(to bottom right, var(--esas-reng), var(--diger-reng));
+    background-color: gray;
     background-repeat: no-repeat;
     min-height: 100vh; 
 }
@@ -91,7 +91,7 @@ body {
     background-color: red;
 }
 
-.reddol{
+.sil{
     transform: scale(0);
 }
 
